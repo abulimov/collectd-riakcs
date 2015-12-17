@@ -12,7 +12,7 @@ with open(path.join(here, 'DESCRIPTION.rst'), encoding='utf-8') as f:
 setup(
     name='collectd-riakcs',
 
-    version='0.1.0',
+    version='0.2.0',
 
     description='A plugin for collectd to gather metrics for a RiakCS instance.',
     long_description=long_description,
